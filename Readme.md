@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on, I am open to offers on any project that interests me. It also motivates me more that it interests me.
 - 📫 How to reach me mail: arjinondes@gmail.com
-# Githubsnake
+
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 

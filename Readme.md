@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arjin Öndeş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p> <img align="right" src="https://user-images.githubusercontent.com/43072879/153904222-04ae47c5-3297-4c5e-b8be-417e2480f53d.gif" /> </p>
+<p> <img align="center" src="https://user-images.githubusercontent.com/43072879/153904222-04ae47c5-3297-4c5e-b8be-417e2480f53d.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjinondes" alt="arjinondes" /></a> </p>
 

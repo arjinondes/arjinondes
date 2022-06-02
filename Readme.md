@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👋 Hi, I’m @arjinondes
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React**
 - 👀 I’m interested in web and game design, art, music and powerpuff girls
 - 💞️ I’m looking to collaborate on, I am open to offers on any project that interests me. It also motivates me more that it interests me.
 - 📫 How to reach me mail: arjinondes@gmail.com
